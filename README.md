@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 I am Rutik Wankhade. I am a 👨‍💻 frontend developer, an avid learner who is passionate about web technologies and building cool projects. I love creating open-source projects and contributing to the community.
 - I’m currently working on a minimal productivity app for myself. 
 - I am documenting my learnings on my [blog](https://blog.rutikwankhade.dev).
